@@ -13,7 +13,7 @@ jobs:
     runs-on: windows-latest
     defaults:
       run:
-        working-directory: "MSAyearbook_olly2"
+        working-directory: "MSAyearbook_olly"
 
     steps:
     # checkout the repo
